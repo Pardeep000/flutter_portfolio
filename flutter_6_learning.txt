@@ -1,0 +1,73 @@
+one way of defining class in the flutter
+
+
+learning all about theme data
+
+one normal way of writing theme=>  theme: themeData()
+other one is new way
+
+
+Theme.of(context).copyWith(primaryColor: Colors.green),
+difference between primarySwatch and primaryColor
+
+there is also theme widget existing...
+
+two ways of using appbar in flutter
+
+ThemeData.dark().copyWith(scaffoldBackgroundColor: Color(0xFF1E1E28)),
+
+expanded and flexible (description of each and difference as well)
+
+constraint : Boxconstraint (maxheight:1440)
+
+all about drawer and in it listview and listtile
+
+final String? data1,data2
+
+tweenanimationbuilder, there is different type of builder (context,index,child)=>widget but usually (context,index)=>widget
+<double resolves the issue>
+
+flutter run --no-sound-null-safety
+
+there is textbutton and iconbutton
+
+when we know there is much data to be filled, we use singlechildscrollview()
+
+q)when we would use aspect_ratio for container,,and what about its uses?
+
+double and Int (there is difference between their usage)
+
+what does child aspect ratio does in gridview.builder()
+how to make slider that slides on its own (with Carousel=>carousel_pro: ^1.0.0)
+how to animated text (animated text kit)
+i should know types of button and all that
+two ways of using appbar
+all about formfields
+how to put validator
+
+
+plant app
+food deliviery app
+news feed app
+
+////////////////////////////////////////////////////////////////////////
+
+flutter svg
+flutter_svg: ^0.17.4
+flutter_svg: ^1.0.3
+
+what is visual density
+texttheme
+positioned widget
+
+stack and its in container
+
+
+navigation on tap function can also be pushed outward
+
+
+
+
+
+
+menubar: animation of transition of pages;
